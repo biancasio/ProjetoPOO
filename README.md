@@ -34,7 +34,7 @@
 
 ---
 
-### **Funcionalidades do Usuario**
+### **Funcionalidades do Administrador**
 - **Login do usuário**  
   Permite que o administrador acesse sua conta de admin.  
 
