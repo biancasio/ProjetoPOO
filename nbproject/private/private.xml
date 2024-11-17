@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/model/Reais.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/model/Ethereum.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/AtualizarController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/SaqueController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/MenuUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/DAO/Conexao.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/VenderUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/model/Moedas.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/SaldoUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/SaldoController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/ComprarController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/UsuarioController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/DepositarController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/DAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/SaqueUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/model/Tarifacao.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/model/Bitcoin.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/AtualizarUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/VenderController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/DepositarUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/controller/ExtratoController.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/ExtratoUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/ComprarUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/view/LoginUsuarioFrame.java</file>
+            <file>file:/C:/Users/Aline%20Rocha/Documents/NetBeansProjects/ProjetoPOO/ProjetoPOO/Exchange/src/model/Ripple.java</file>
+        </group>
+    </open-files>
+</project-private>
